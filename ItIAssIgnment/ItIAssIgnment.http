@@ -1,0 +1,6 @@
+@ItIAssIgnment_HostAddress = http://localhost:5083
+
+GET {{ItIAssIgnment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
